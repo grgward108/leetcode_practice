@@ -1,5 +1,6 @@
 problem 1
 
+
 idea : use a hash map
 use a hash map for each nums with their specific index
 
