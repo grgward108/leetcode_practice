@@ -29,6 +29,7 @@ then find the minimum of them all
 so we initialize a helper(n) 
 
 if n == 1:
+
     return 0
 min = n
 for k in range(1, n**0.5 + 1):
